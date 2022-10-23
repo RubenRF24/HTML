@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+    <link rel="stylesheet" type="text/css" href="normalize.css">
+    <title>Calculadora | RubenRF</title>
+</head>
+<body>
+    <div class="panel">
+
+        <section class="pantalla">
+            0
+        </section>
+
+        <section class="botones-calc">
+            <div class="fila-cal">
+                <button class="boton-calc double">
+                    C
+                </button>
+                <button class="boton-calc">
+                    &larr;
+                </button>
+                <button class="boton-calc">
+                    &divide;
+                </button>
+            </div>
+
+            <div class="fila-cal">
+                <button class="boton-calc">
+                    7
+                </button>
+                <button class="boton-calc">
+                    8
+                </button>
+                <button class="boton-calc">
+                    9
+                </button>
+                <button class="boton-calc">
+                    &times;
+                </button>
+            </div>
+
+            <div class="fila-cal">
+                <button class="boton-calc">
+                    4
+                </button>
+                <button class="boton-calc">
+                    5
+                </button>
+                <button class="boton-calc">
+                    6
+                </button>
+                <button class="boton-calc">
+                    &minus;
+                </button>
+            </div>
+
+            <div class="fila-cal">
+                <button class="boton-calc">
+                    1
+                </button>
+                <button class="boton-calc">
+                    2
+                </button>
+                <button class="boton-calc">
+                    3
+                </button>
+                <button class="boton-calc">
+                    &plus;
+                </button>
+            </div>
+
+            <div class="fila-cal">
+                <button class="boton-calc triple">
+                    0
+                </button>
+                <button class="boton-calc">
+                    &equals;
+                </button>
+            </div>
+            
+        </section>
+    </div>
+</body>
+</html>
